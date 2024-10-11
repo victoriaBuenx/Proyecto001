@@ -1,3 +1,3 @@
-room_goto(Introduccion);
+room_goto(Cuarto);
 
 
