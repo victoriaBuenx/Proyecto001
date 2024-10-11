@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"sprFondoCocina",
+  "%Name":"SprBg1_1",
   "bboxMode":0,
   "bbox_bottom":672,
   "bbox_left":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cc2b73ee-cc58-40b6-9ccd-3b7cee8918f4","name":"cc2b73ee-cc58-40b6-9ccd-3b7cee8918f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"da7a5da8-8cb1-4ea9-bf21-c2d7c4e5f4f4","name":"da7a5da8-8cb1-4ea9-bf21-c2d7c4e5f4f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":673,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f239b791-7d16-41b6-ad8d-d0eb603457f9","blendMode":0,"displayName":"default","isLocked":false,"name":"f239b791-7d16-41b6-ad8d-d0eb603457f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"03935828-28d7-4331-bb19-4055f7402711","blendMode":0,"displayName":"default","isLocked":false,"name":"03935828-28d7-4331-bb19-4055f7402711","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sprFondoCocina",
+  "name":"SprBg1_1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sprFondoCocina",
+    "%Name":"SprBg1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sprFondoCocina",
+    "name":"SprBg1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc2b73ee-cc58-40b6-9ccd-3b7cee8918f4","path":"sprites/sprFondoCocina/sprFondoCocina.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ae588550-cdbf-4159-9668-371601a31970","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da7a5da8-8cb1-4ea9-bf21-c2d7c4e5f4f4","path":"sprites/SprBg1_1/SprBg1_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bcc8375c-c4bb-4b99-a76a-37c2060a16da","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
