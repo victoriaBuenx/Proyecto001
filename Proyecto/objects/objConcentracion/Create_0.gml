@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 797807C9
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)vidaC=100$(13_10)vidaCMax=vidaC"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.vidaC=50$(13_10)vidaCMax=100"
 /// @description Execute Code
-vidaC=100
-vidaCMax=vidaC
+global.vidaC=50
+vidaCMax=100
