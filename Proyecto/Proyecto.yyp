@@ -34,7 +34,10 @@
   },
   "name":"Proyecto",
   "resources":[
+    {"id":{"name":"ObjAmigo","path":"objects/ObjAmigo/ObjAmigo.yy",},},
+    {"id":{"name":"ObjMama","path":"objects/ObjMama/ObjMama.yy",},},
     {"id":{"name":"ObjPersonaje","path":"objects/ObjPersonaje/ObjPersonaje.yy",},},
+    {"id":{"name":"ObjRefrigerador","path":"objects/ObjRefrigerador/ObjRefrigerador.yy",},},
     {"id":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
     {"id":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"id":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
