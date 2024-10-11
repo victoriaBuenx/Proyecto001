@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ObjRefrigerador",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objFood14",
+  "eventList":[],
   "managed":true,
-  "name":"ObjRefrigerador",
+  "name":"objFood14",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprRefri",
-    "path":"sprites/sprRefri/sprRefri.yy",
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
   },
   "spriteMaskId":null,
   "visible":true,
