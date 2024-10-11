@@ -22,6 +22,8 @@ if (x > 1300) {
 	if (room == Cuarto) {
         room_goto(Cocina);
     } else if (room == Cocina) {
+		sprite_index= sprPersonajeTriste;
         room_goto(Escuela);
+		
     }
 }
