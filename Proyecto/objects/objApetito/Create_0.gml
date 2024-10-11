@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 08971E35
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)vidaAP=100$(13_10)vidaAPMax=vidaAP"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.vidaAP = 60;$(13_10)vidaAPMax= 100"
 /// @description Execute Code
-vidaAP=100
-vidaAPMax=vidaAP
+global.vidaAP = 60;
+vidaAPMax= 100

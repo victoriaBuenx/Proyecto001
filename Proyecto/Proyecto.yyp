@@ -34,6 +34,7 @@
   },
   "name":"Proyecto",
   "resources":[
+    {"id":{"name":"FntGrande","path":"fonts/FntGrande/FntGrande.yy",},},
     {"id":{"name":"ObjAmigo","path":"objects/ObjAmigo/ObjAmigo.yy",},},
     {"id":{"name":"objAnimo","path":"objects/objAnimo/objAnimo.yy",},},
     {"id":{"name":"objApetito","path":"objects/objApetito/objApetito.yy",},},
@@ -83,6 +84,7 @@
     {"id":{"name":"sprCompu_1","path":"sprites/sprCompu_1/sprCompu_1.yy",},},
     {"id":{"name":"sprCompu","path":"sprites/sprCompu/sprCompu.yy",},},
     {"id":{"name":"sprConcentracion","path":"sprites/sprConcentracion/sprConcentracion.yy",},},
+    {"id":{"name":"sprCuadroDialogo","path":"sprites/sprCuadroDialogo/sprCuadroDialogo.yy",},},
     {"id":{"name":"sprCurry","path":"sprites/sprCurry/sprCurry.yy",},},
     {"id":{"name":"sprEnergia","path":"sprites/sprEnergia/sprEnergia.yy",},},
     {"id":{"name":"sprEscritorio_1","path":"sprites/sprEscritorio_1/sprEscritorio_1.yy",},},
@@ -112,6 +114,7 @@
     {"id":{"name":"sprMenuComida","path":"sprites/sprMenuComida/sprMenuComida.yy",},},
     {"id":{"name":"sprMesa_1","path":"sprites/sprMesa_1/sprMesa_1.yy",},},
     {"id":{"name":"sprMesa","path":"sprites/sprMesa/sprMesa.yy",},},
+    {"id":{"name":"sprNubePensamiento","path":"sprites/sprNubePensamiento/sprNubePensamiento.yy",},},
     {"id":{"name":"sprOmelette","path":"sprites/sprOmelette/sprOmelette.yy",},},
     {"id":{"name":"sprPapa","path":"sprites/sprPapa/sprPapa.yy",},},
     {"id":{"name":"sprPastel","path":"sprites/sprPastel/sprPastel.yy",},},
