@@ -1,0 +1,1 @@
+global.vidaA= 5;
