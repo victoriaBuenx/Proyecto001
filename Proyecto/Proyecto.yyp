@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"FntGrande","path":"fonts/FntGrande/FntGrande.yy",},},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"btnRegresar","path":"objects/btnRegresar/btnRegresar.yy",},},
     {"id":{"name":"ObjAmigo","path":"objects/ObjAmigo/ObjAmigo.yy",},},
     {"id":{"name":"objAnimo","path":"objects/objAnimo/objAnimo.yy",},},
     {"id":{"name":"objApetito","path":"objects/objApetito/objApetito.yy",},},
@@ -68,6 +69,7 @@
     {"id":{"name":"objTxtMama","path":"objects/objTxtMama/objTxtMama.yy",},},
     {"id":{"name":"objTxtResp1","path":"objects/objTxtResp1/objTxtResp1.yy",},},
     {"id":{"name":"objTxtResp2","path":"objects/objTxtResp2/objTxtResp2.yy",},},
+    {"id":{"name":"Sonido","path":"objects/Sonido/Sonido.yy",},},
     {"id":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
     {"id":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"id":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
@@ -166,10 +168,10 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
+    {"roomId":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
+    {"roomId":{"name":"MenuComida","path":"rooms/MenuComida/MenuComida.yy",},},
     {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
-    {"roomId":{"name":"MenuComida","path":"rooms/MenuComida/MenuComida.yy",},},
-    {"roomId":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
     {"roomId":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
   ],
   "templateType":"game",
