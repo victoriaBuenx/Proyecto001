@@ -116,6 +116,8 @@
     {"id":{"name":"sprPay","path":"sprites/sprPay/sprPay.yy",},},
     {"id":{"name":"sprPersonaje_1","path":"sprites/sprPersonaje_1/sprPersonaje_1.yy",},},
     {"id":{"name":"sprPersonaje","path":"sprites/sprPersonaje/sprPersonaje.yy",},},
+    {"id":{"name":"sprPersonajeAmigo1","path":"sprites/sprPersonajeAmigo1/sprPersonajeAmigo1.yy",},},
+    {"id":{"name":"sprPersonajeAmigo2","path":"sprites/sprPersonajeAmigo2/sprPersonajeAmigo2.yy",},},
     {"id":{"name":"sprPersonajeTriste","path":"sprites/sprPersonajeTriste/sprPersonajeTriste.yy",},},
     {"id":{"name":"sprPintura_1","path":"sprites/sprPintura_1/sprPintura_1.yy",},},
     {"id":{"name":"sprPintura","path":"sprites/sprPintura/sprPintura.yy",},},
