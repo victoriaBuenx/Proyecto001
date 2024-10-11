@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ObjMama",
+  "%Name":"objMostrarDialogos",
   "eventList":[],
   "managed":true,
-  "name":"ObjMama",
+  "name":"objMostrarDialogos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprPollo",
+    "path":"sprites/sprPollo/sprPollo.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
