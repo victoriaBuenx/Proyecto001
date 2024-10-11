@@ -16,6 +16,7 @@
     {"name":"inst_33FA503C","path":"rooms/Escuela/Escuela.yy",},
     {"name":"inst_24CC34B5","path":"rooms/Escuela/Escuela.yy",},
     {"name":"inst_10E7F6E5","path":"rooms/Escuela/Escuela.yy",},
+    {"name":"inst_6546E0AD","path":"rooms/Escuela/Escuela.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -30,6 +31,7 @@
         {"$GMRInstance":"v1","%Name":"inst_33FA503C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33FA503C","objectId":{"name":"objConcentracion","path":"objects/objConcentracion/objConcentracion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1095.0,"y":141.0,},
         {"$GMRInstance":"v1","%Name":"inst_24CC34B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_24CC34B5","objectId":{"name":"objPersonajeAmigo1","path":"objects/objPersonajeAmigo1/objPersonajeAmigo1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":77.0,"y":334.0,},
         {"$GMRInstance":"v1","%Name":"inst_10E7F6E5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10E7F6E5","objectId":{"name":"objPersonajeAmigo2","path":"objects/objPersonajeAmigo2/objPersonajeAmigo2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1263.0,"y":332.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6546E0AD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6546E0AD","objectId":{"name":"ObjPersonaje","path":"objects/ObjPersonaje/ObjPersonaje.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.666666,"scaleY":11.240001,"x":-128.0,"y":608.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_D19BCCB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_D19BCCB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":20.0,"scaleY":21.0,"spriteId":{"name":"sprPizarron","path":"sprites/sprPizarron/sprPizarron.yy",},"x":320.0,"y":96.0,},

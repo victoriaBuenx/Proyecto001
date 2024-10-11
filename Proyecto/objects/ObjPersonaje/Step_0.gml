@@ -14,3 +14,14 @@ if (hor != 0) {
 } else {
     hspeed = 0; // Detener el movimiento horizontal
 }
+if (x > 1300) {
+    // Cambiar al siguiente cuarto
+   
+	global.personaje_pos_x = 10; // Nueva posición X al entrar al nuevo cuarto
+    global.personaje_pos_y = 546.5;
+	if (room == Cuarto) {
+        room_goto(Cocina);
+    } else if (room == Cocina) {
+        room_goto(Escuela);
+    }
+}

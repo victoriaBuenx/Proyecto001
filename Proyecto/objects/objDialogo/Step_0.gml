@@ -1,39 +1,19 @@
-#region gui
-
 var key_action = keyboard_check_pressed(ord("E"));
 
-if(key_action)
-{
-	if(!draw_Dialog)
-	{
-	draw_Dialog=true;
-	}
+if (key_action) {
+    // Avanzar al siguiente diálogo
+    
+    // Avanzar al siguiente diálogo
+    current_index += 1;
+
+    // Si se ha alcanzado el final del diálogo, reiniciar o avanzar a la siguiente parte
+    if (current_index >= array_length_1d(dialog[count.talk])) {
+        current_index = 0;
+        Dialogo = count.complete; // Completa después de mostrar los diálogos
+    }
+	
+    
+    // Ajustar visibilidad del diálogo
+    visible = true;
+    draw_Dialog = true;
 }
-
-#region
-if ( Dialogo = count.talk)
-{
-	if(respuesta0){
-	Dialogo = count.question;
-	respuesta0=false;
-	}
-}
-
-if ( Dialogo = count.question)
-{
-	if(respuesta0){
-	Dialogo = count.complete;
-	respuesta0=false;
-	draw_Dialog = false;
-
-	}
-
-	if(respuesta1){
-	Dialogo = count.complete;
-	respuesta1=false;
-	draw_Dialog = false;
-	}
-
-}
-
-#endregion
