@@ -88,6 +88,7 @@
     {"id":{"name":"sprMesa_1","path":"sprites/sprMesa_1/sprMesa_1.yy",},},
     {"id":{"name":"sprMesa","path":"sprites/sprMesa/sprMesa.yy",},},
     {"id":{"name":"sprPapa","path":"sprites/sprPapa/sprPapa.yy",},},
+    {"id":{"name":"sprPersonaje_1","path":"sprites/sprPersonaje_1/sprPersonaje_1.yy",},},
     {"id":{"name":"sprPersonaje","path":"sprites/sprPersonaje/sprPersonaje.yy",},},
     {"id":{"name":"sprPersonajeTriste","path":"sprites/sprPersonajeTriste/sprPersonajeTriste.yy",},},
     {"id":{"name":"sprPintura_1","path":"sprites/sprPintura_1/sprPintura_1.yy",},},
@@ -115,9 +116,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
     {"roomId":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
-    {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
     {"roomId":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
   ],
