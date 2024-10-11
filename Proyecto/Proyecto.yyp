@@ -40,6 +40,7 @@
     {"id":{"name":"objApetito","path":"objects/objApetito/objApetito.yy",},},
     {"id":{"name":"objBarraVida","path":"objects/objBarraVida/objBarraVida.yy",},},
     {"id":{"name":"objConcentracion","path":"objects/objConcentracion/objConcentracion.yy",},},
+    {"id":{"name":"objDialogo","path":"objects/objDialogo/objDialogo.yy",},},
     {"id":{"name":"ObjEmpezar","path":"objects/ObjEmpezar/ObjEmpezar.yy",},},
     {"id":{"name":"objEnergia","path":"objects/objEnergia/objEnergia.yy",},},
     {"id":{"name":"objFood1","path":"objects/objFood1/objFood1.yy",},},
@@ -154,9 +155,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
     {"roomId":{"name":"MenuComida","path":"rooms/MenuComida/MenuComida.yy",},},
-    {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
     {"roomId":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
     {"roomId":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
