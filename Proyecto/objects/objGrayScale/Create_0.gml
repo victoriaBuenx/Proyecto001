@@ -1,1 +1,1 @@
-global.vidaE= 5;
+global.vidaA= 5;
