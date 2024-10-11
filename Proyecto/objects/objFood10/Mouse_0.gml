@@ -1,4 +1,5 @@
 if (global.vidaAP <= 100 && prueba) {
+	audio_play_sound(sndComer, 1, false);
 	global.vidaAP += puntos;
 	if(global.vidaE <=100){
 		global.vidaE += pntEnergia;
