@@ -57,6 +57,8 @@
     {"id":{"name":"objFood9","path":"objects/objFood9/objFood9.yy",},},
     {"id":{"name":"ObjMama","path":"objects/ObjMama/ObjMama.yy",},},
     {"id":{"name":"ObjPersonaje","path":"objects/ObjPersonaje/ObjPersonaje.yy",},},
+    {"id":{"name":"objPersonajeAmigo1","path":"objects/objPersonajeAmigo1/objPersonajeAmigo1.yy",},},
+    {"id":{"name":"objPersonajeAmigo2","path":"objects/objPersonajeAmigo2/objPersonajeAmigo2.yy",},},
     {"id":{"name":"ObjRefrigerador","path":"objects/ObjRefrigerador/ObjRefrigerador.yy",},},
     {"id":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
     {"id":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
