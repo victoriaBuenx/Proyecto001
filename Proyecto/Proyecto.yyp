@@ -36,16 +36,30 @@
   "resources":[
     {"id":{"name":"ObjPersonaje","path":"objects/ObjPersonaje/ObjPersonaje.yy",},},
     {"id":{"name":"ctmvicky","path":"rooms/ctmvicky/ctmvicky.yy",},},
+    {"id":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+=======
+    {"id":{"name":"SprBgIntroduccion","path":"sprites/SprBgIntroduccion/SprBgIntroduccion.yy",},},
+    {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"SprPersonaje1Caminata","path":"sprites/SprPersonaje1Caminata/SprPersonaje1Caminata.yy",},},
+    {"id":{"name":"SprPersonaje1Fondo","path":"sprites/SprPersonaje1Fondo/SprPersonaje1Fondo.yy",},},
+    {"id":{"name":"SprPersonaje2Caminata","path":"sprites/SprPersonaje2Caminata/SprPersonaje2Caminata.yy",},},
+    {"id":{"name":"SprPersonaje2Fondo","path":"sprites/SprPersonaje2Fondo/SprPersonaje2Fondo.yy",},},
+>>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
     {"roomId":{"name":"ctmvicky","path":"rooms/ctmvicky/ctmvicky.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
-    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
