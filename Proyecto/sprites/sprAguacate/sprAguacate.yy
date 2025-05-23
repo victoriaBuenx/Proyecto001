@@ -2,24 +2,24 @@
   "$GMSprite":"",
   "%Name":"sprAguacate",
   "bboxMode":0,
-  "bbox_bottom":15,
+  "bbox_bottom":27,
   "bbox_left":0,
-  "bbox_right":15,
-  "bbox_top":1,
+  "bbox_right":31,
+  "bbox_top":4,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"02112634-d03c-47f9-b2b5-0a9f37420958","name":"02112634-d03c-47f9-b2b5-0a9f37420958","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e62c44c6-3f32-42a9-a102-cf75db8c6f92","name":"e62c44c6-3f32-42a9-a102-cf75db8c6f92","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":16,
+  "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"5c6aee9f-affd-4d53-a40a-05ba0f102914","blendMode":0,"displayName":"default","isLocked":false,"name":"5c6aee9f-affd-4d53-a40a-05ba0f102914","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"18d0d9fd-5bf1-4c8a-8dcf-76e8706f50c4","blendMode":0,"displayName":"default","isLocked":false,"name":"18d0d9fd-5bf1-4c8a-8dcf-76e8706f50c4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprAguacate",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"02112634-d03c-47f9-b2b5-0a9f37420958","path":"sprites/sprAguacate/sprAguacate.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9c0a4aaf-0ea9-4ad5-84bd-fcf79b1c7999","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e62c44c6-3f32-42a9-a102-cf75db8c6f92","path":"sprites/sprAguacate/sprAguacate.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d8f367ab-ae6c-45b5-9fb2-23786b672eb2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":16,
+  "width":32,
 }
