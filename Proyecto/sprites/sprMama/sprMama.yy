@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"sprMama",
   "bboxMode":0,
-  "bbox_bottom":65,
+  "bbox_bottom":64,
   "bbox_left":2,
   "bbox_right":58,
   "bbox_top":1,
