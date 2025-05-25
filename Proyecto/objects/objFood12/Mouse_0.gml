@@ -4,7 +4,7 @@ if (global.vidaAP <= 100 && prueba) {
 	if(global.vidaE <=100){
 		global.vidaE += pntEnergia;
 	}
-    mensaje = "Comiste sandia. Refrescante, con mucha agua y vitamina C!";
+    mensaje = "Comiste sandía. ¡Refrescante, con mucha agua y vitamina C!";
     mensaje_timer = room_speed * 2; 
 	prueba= false;
 	if(global.vidaAP >100){

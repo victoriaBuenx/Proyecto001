@@ -34,6 +34,7 @@
   },
   "name":"Proyecto",
   "resources":[
+    {"id":{"name":"FntGrande_1","path":"fonts/FntGrande_1/FntGrande_1.yy",},},
     {"id":{"name":"FntGrande","path":"fonts/FntGrande/FntGrande.yy",},},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
     {"id":{"name":"btnRegresar","path":"objects/btnRegresar/btnRegresar.yy",},},
@@ -172,6 +173,7 @@
     {"id":{"name":"sprPersonajeAmigo1","path":"sprites/sprPersonajeAmigo1/sprPersonajeAmigo1.yy",},},
     {"id":{"name":"sprPersonajeAmigo2","path":"sprites/sprPersonajeAmigo2/sprPersonajeAmigo2.yy",},},
     {"id":{"name":"sprPersonajeEspaldas","path":"sprites/sprPersonajeEspaldas/sprPersonajeEspaldas.yy",},},
+    {"id":{"name":"sprPersonajeEstatico_1","path":"sprites/sprPersonajeEstatico_1/sprPersonajeEstatico_1.yy",},},
     {"id":{"name":"sprPersonajeEstatico","path":"sprites/sprPersonajeEstatico/sprPersonajeEstatico.yy",},},
     {"id":{"name":"sprPersonajeTriste","path":"sprites/sprPersonajeTriste/sprPersonajeTriste.yy",},},
     {"id":{"name":"sprPintura_1","path":"sprites/sprPintura_1/sprPintura_1.yy",},},

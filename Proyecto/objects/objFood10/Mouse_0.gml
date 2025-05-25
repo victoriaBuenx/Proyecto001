@@ -4,7 +4,7 @@ if (global.vidaAP <= 100 && prueba) {
 	if(global.vidaE <=100){
 		global.vidaE += pntEnergia;
 	}
-    mensaje = "Comiste arroz. ¡Una excelente fuente de energia y carbohidratos complejos!";
+    mensaje = "Comiste arroz. ¡Una excelente fuente de energía y carbohidratos complejos!";
     mensaje_timer = room_speed * 2;
 	prueba= false;
 	if(global.vidaAP >100){

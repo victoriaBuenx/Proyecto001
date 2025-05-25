@@ -1,19 +1,22 @@
 var hor = keyboard_check(vk_right) - keyboard_check(vk_left);
 
-// Si hay movimiento horizontal
 if (hor != 0) {
-    x += hor * 2; // Ajusta la velocidad de movimiento
-    hspeed = hor * 2; // Ajusta la velocidad horizontal
-    
-    // Cambiar el sprite según la dirección del movimiento
+    x += hor * 2; 
+    hspeed = hor * 2; 
+	
     if (hor > 0) {
-        sprite_index = sprPersonaje; // Sprite para moverse a la derecha
+        sprite_index = sprPersonaje; 
     } else {
-        sprite_index = sprPersonaje_1; // Sprite para moverse a la izquierda
+        sprite_index = sprPersonaje_1; 
     }
 } else {
-    hspeed = 0; // Detener el movimiento horizontal
+    hspeed = 0; 
+   
+    sprite_index = sprPersonajeEstatico;
 }
+
+
+
 if (!global.cambio_sala) {
     // CAMBIO DE ROOM HACIA LA DERECHA
     if (x > 1300) {
