@@ -19,7 +19,7 @@ if (!global.cambio_sala) {
     if (x > 1300) {
         global.cambio_sala = true; // Evitar doble cambio
         global.personaje_pos_x = 10;
-        global.personaje_pos_y = 536.5;
+        global.personaje_pos_y = 603;
 
         if (room == Cuarto) {
             room_goto(Cocina);
@@ -33,7 +33,7 @@ if (!global.cambio_sala) {
     if (x < 0) {
         global.cambio_sala = true; // Evitar doble cambio
         global.personaje_pos_x = 1260;
-        global.personaje_pos_y = 536.5;
+        global.personaje_pos_y = 603;
 
         if (room == Cocina) {
             room_goto(Cuarto);
