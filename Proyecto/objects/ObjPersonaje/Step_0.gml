@@ -14,16 +14,31 @@ if (hor != 0) {
 } else {
     hspeed = 0; // Detener el movimiento horizontal
 }
-if (x > 1300) {
-    // Cambiar al siguiente cuarto
-   
-	global.personaje_pos_x = 10; // Nueva posición X al entrar al nuevo cuarto
-    global.personaje_pos_y = 546.5;
-	if (room == Cuarto) {
-        room_goto(Cocina);
-    } else if (room == Cocina) {
-		sprite_index= sprPersonajeTriste;
-        room_goto(Escuela);
-		
+if (!global.cambio_sala) {
+    // CAMBIO DE ROOM HACIA LA DERECHA
+    if (x > 1300) {
+        global.cambio_sala = true; // Evitar doble cambio
+        global.personaje_pos_x = 10;
+        global.personaje_pos_y = 536.5;
+
+        if (room == Cuarto) {
+            room_goto(Cocina);
+        } else if (room == Cocina) {
+            sprite_index = sprPersonajeTriste;
+            room_goto(Escuela);
+        }
+    }
+
+    // CAMBIO DE ROOM HACIA LA IZQUIERDA
+    if (x < 0) {
+        global.cambio_sala = true; // Evitar doble cambio
+        global.personaje_pos_x = 1260;
+        global.personaje_pos_y = 536.5;
+
+        if (room == Cocina) {
+            room_goto(Cuarto);
+        } else if (room == Escuela) {
+            room_goto(Cocina);
+        }
     }
 }
