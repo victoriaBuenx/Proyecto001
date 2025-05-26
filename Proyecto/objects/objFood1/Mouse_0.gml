@@ -1,7 +1,7 @@
 if (global.vidaAP <= 100 && prueba) {
 	audio_play_sound(sndComer, 1, false);
     global.vidaAP += puntos;
-	if(global.vidaE <=100){
+	if(global.vidaE+pntEnergia <=100){
 		global.vidaE += pntEnergia;
 	}
 	mensaje = "Comiste una manzana. ¡Rica en fibra y vitaminas!";

@@ -29,7 +29,9 @@ if (!global.cambio_sala) {
         } else if (room == Cocina) {
             sprite_index = sprPersonajeTriste;
             room_goto(Escuela);
-        }
+        }else if (room = Escuela){
+			room_goto(CuartoEspejo);	
+		}
     }
 
     // CAMBIO DE ROOM HACIA LA IZQUIERDA
