@@ -211,12 +211,12 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Introduccion","path":"rooms/Introduccion/Introduccion.yy",},},
+    {"roomId":{"name":"MenuComida","path":"rooms/MenuComida/MenuComida.yy",},},
+    {"roomId":{"name":"CuartoEspejo","path":"rooms/CuartoEspejo/CuartoEspejo.yy",},},
     {"roomId":{"name":"Inicio","path":"rooms/Inicio/Inicio.yy",},},
     {"roomId":{"name":"Escuela","path":"rooms/Escuela/Escuela.yy",},},
-    {"roomId":{"name":"MenuComida","path":"rooms/MenuComida/MenuComida.yy",},},
     {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"roomId":{"name":"Cocina","path":"rooms/Cocina/Cocina.yy",},},
-    {"roomId":{"name":"CuartoEspejo","path":"rooms/CuartoEspejo/CuartoEspejo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
